@@ -1,0 +1,29 @@
+<div class="dropdown clearfix" ng-class="{open: isOpen()}">
+
+  <ul class="typeahead dropdown-menu tt-dropdown-menu">
+
+    <li class="tt-suggestion" ng-repeat="match in matches" ng-class="{active: isActive($index) }" ng-mouseenter="selectActive($index)">
+
+      <a onclick="highlightedresult();" tabindex="-1" ng-click="selectMatch($index)" >
+
+ <p class="repo-tag2">{{match.model.tag}}</p>
+       <p class="repo-img" style="white-space: normal;"> <img src="{{match.model.icon}}" alt="icon" /></p>
+
+        <span class="repo-name" ng-bind-html-unsafe="match.label | typeaheadHighlight:query"></span>
+
+        <p class="repo-description">{{match.model.info}}</p>
+       
+        
+        
+        
+
+      </a>
+
+
+
+    </li>
+
+
+
+  </ul>
+</div>

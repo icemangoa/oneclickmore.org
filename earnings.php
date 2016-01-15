@@ -1,17 +1,16 @@
 <!-- EARNINGS -->
-    <section class="dark_section" id="skills">
+    <section class="dark_section" id="clicks">
         <div class="container">
             <div class="row">
                 <div class="col-sm-12 text-center">
-                    <h2 class="block-header">&euro;URO raised</h2>
+                    <h2 class="block-header">Clicks so far</h2>
 
-                    <p>Below you may see how much money<br>
-                    has been raised for each cause.</p>
+                    <p>Below you may see how many clicks each cause has had.</p>
                 </div>
             </div>
 
             <div class="row text-center">
-                <div class="col-sm-3">
+                <div class="col-sm-4">
                     <span class="chart" data-percent="75"><span class=
                     "percent"></span></span>
 
@@ -21,7 +20,7 @@
                     suscipit.</p>
                 </div>
 
-                <div class="col-sm-3">
+                <div class="col-sm-4">
                     <span class="chart" data-percent="62"><span class=
                     "percent"></span></span>
 
@@ -31,7 +30,7 @@
                     suscipit.</p>
                 </div>
 
-                <div class="col-sm-3">
+                <div class="col-sm-4">
                     <span class="chart" data-percent="57"><span class=
                     "percent"></span></span>
 
@@ -41,15 +40,7 @@
                     amet</p>
                 </div>
 
-                <div class="col-sm-3">
-                    <span class="chart" data-percent="87"><span class=
-                    "percent"></span></span>
-
-                    <h4 class="text-center">Homeless people</h4>
-
-                    <p>Lorem impum dolor tation ullamcorper suscipit. sit
-                    amet</p>
-                </div>
+             
             </div>
         </div>
     </section><!-- END EARNINGS -->

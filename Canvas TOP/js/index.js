@@ -6,7 +6,6 @@
 			});
 			
 			function buildCanvas() {
-				$('<a href="#" id="trigger">More +</a>').appendTo($container);
 
 				$('#trigger').bind('click', function(e) {
 					e.preventDefault();
@@ -16,7 +15,7 @@
 						$container.height($cHeight);
 						$this.text('Hide -');
 					} else {
-						$container.height(50);
+						$container.height(0);
 						$this.text('More +');
 					}
 				});

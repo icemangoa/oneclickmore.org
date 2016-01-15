@@ -15,7 +15,7 @@
                 </div>
                 <div class="col-sm-6">
                 <br/><br/>
-              <iframe src="https://player.vimeo.com/video/121698707" width="570" height="321" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+             <!-- <iframe src="https://player.vimeo.com/video/121698707" width="570" height="321" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>-->
                  
                   </div>
               </div>
@@ -31,7 +31,7 @@
                     <a href="#top" id="backToTop" class="theme_btn">Help now!</a> </div>
                 </div>
                 <div class="col-sm-6"> <br/><br/>
-                   <iframe src="https://player.vimeo.com/video/121698707" width="570" height="321" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+                              <!-- <iframe src="https://player.vimeo.com/video/121698707" width="570" height="321" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>-->
                   </div>
               </div>
             </div>
@@ -46,7 +46,7 @@
                    <a href="#top" id="backToTop" class="theme_btn">Help now!</a> </div>
                 </div>
                 <div class="col-sm-6">  <br/><br/>
-                  <iframe src="https://player.vimeo.com/video/121698707" width="570" height="321" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+                              <!-- <iframe src="https://player.vimeo.com/video/121698707" width="570" height="321" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>-->
                   </div>
               </div>
             </div>

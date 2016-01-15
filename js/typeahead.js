@@ -235,6 +235,7 @@ angular.module('ui.bootstrap.typeahead', [])
       }
     };
   })
+  
 
   .filter('typeaheadHighlight', function() {
     return function(matchItem, query) {
